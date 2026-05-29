@@ -1,10 +1,9 @@
 %dikshant added this
 
 % Spiral of Circles - All 9 Runs from Table
-clear; clc;
 
 % Parameters
-N = 1000;           % number of iterations
+N = 1000;           % number of iteration
 dr = 0.1;           % change in radius
 r_max = dr * N;     % for axis scaling
 axis_limit = r_max + 2;
